@@ -1,0 +1,9 @@
+{
+  "version": "v1.0.1",
+  "batchNo": "INHOUSE5CH-v101-test",
+  "notes": "OTA test build",
+  "binUrl": "https://aromadevalencia.github.io/ESP_OTA/23-3-26_OTAtesting.ino.bin",
+  "mode": "development",
+  "deviceModel": "INHOUSE_5CH",
+  "uploadedAtIso": "2026-03-24T12:00:00Z"
+}
