@@ -1,9 +1,9 @@
 {
-    "version": "v1.0.3",
-    "batchNo": "INHOUSE5CH-v102-20260424162152",
-    "notes": "test run2",
-    "binUrl": "https://aromadevalencia.github.io/ESP_OTA/20260424_113148_INHOUSE_5CH_v1.0.3.bin",
+    "version": "v1.0.4",
+    "batchNo": "INHOUSE5CH-v104-20260424175943",
+    "notes": "test run3",
+    "binUrl": "https://aromadevalencia.github.io/ESP_OTA/INHOUSE_5CH_latest.bin",
     "mode": "development",
     "deviceModel": "INHOUSE_5CH",
-    "uploadedAtIso": "2026-04-24T11:31:51Z"
+    "uploadedAtIso": "2026-04-24T12:29:50Z"
 }
